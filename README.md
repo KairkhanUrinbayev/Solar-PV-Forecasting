@@ -2,6 +2,8 @@
 
 Desktop application for analysing photovoltaic AC power data, comparing forecasting models, and optimising inverter setpoints.
 
+The current user interface is in Russian.
+
 ## Features
 
 - Loads `.xlsx` datasets and validates required columns.
